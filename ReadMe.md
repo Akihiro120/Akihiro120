@@ -1,5 +1,5 @@
-- Hi, I'm Akihiro
-- I'm interested in Graphics Programming
-- I'm currently learning how to program in Assembly
-- I can program in C/C++ and Rust
-- I've been programming for 10 years now
+- 😁Hi, I'm Akihiro
+- 👾I'm interested in Graphics Programming
+- 💡I'm currently learning how to program in Assembly
+- ✨I can program in C/C++ and Rust
+- 🕰️I've been programming for 10 years now
