@@ -1,1 +1,4 @@
-
+- Hi, I'm Akihiro
+- I'm interested in Graphics Programming
+- I'm current learning how to program in Assembly
+- I can program in C/C++ and Rust
