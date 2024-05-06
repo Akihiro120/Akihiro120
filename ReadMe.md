@@ -1,4 +1,4 @@
-- 😁Hi, I'm Akihiro
+- 😁Hi, I'm Kevin, my nickname is Akihiro
 - 👾I'm interested in Graphics Programming
 - 💡I'm currently learning how to program in Assembly
 - ✨I can program in C/C++ and Rust
