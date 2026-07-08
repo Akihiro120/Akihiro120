@@ -24,7 +24,7 @@ An rust framework for building graphics agnostic engines.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 ```bash
 Languages:    C++, Rust
